@@ -1,3 +1,1 @@
-  // problem: it's running content.js on any website, and add block isn't functioning
-  // today's goal: fix bugs and test
-  // tomorrow's goal: add CSS to popup.html
+this is a stripped-down site blocker that puts a meme at the center of the screen of a site. scroll all you want but the meme will haunt. you. down.
