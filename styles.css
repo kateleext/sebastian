@@ -1,0 +1,12 @@
+.popupCell img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    object-fit: contain; /* Keeps aspect ratio */
+  }
+  .popupCell {
+    max-width: 200px;
+    max-height: 100px;
+  }
+  
+  
