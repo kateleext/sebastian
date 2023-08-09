@@ -20,7 +20,7 @@ function updateBlockList() {
       var deleteCell = row.insertCell();
       var deleteButton = document.createElement('button');
       deleteCell.appendChild(deleteButton);
-      deleteButton.textContent = 'Delete';
+      deleteButton.textContent = 'X';
       deleteButton.addEventListener('click', function() {
         deleteBlockedDomain(data.domain);
       });
